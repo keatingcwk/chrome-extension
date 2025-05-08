@@ -1,3 +1,29 @@
 {
-"what is your name":"My name is Dixit"
+"Can you explain Inception Financial’s solar investment model work?": "Inception Financial offers a solar asset-based investment where investors purchase solar assets through a dedicated LLC, enabling direct ownership and control. The investment is structured to maximize tax benefits, including the Investment Tax Credit (ITC) and accelerated depreciation.",
+
+"What does it mean to own a solar asset through an LLC?": "Investors acquire solar assets via a Limited Liability Company (LLC), which provides:\n- Pass-through tax benefits, allowing individual investors to claim tax incentives.\n- Management rights, which may help qualify the business as active for tax purposes.\n- Sole ownership recommendations for those not meeting the 500-hour material participation requirement across all business activities.",
+
+"How does Power Purchase Agreements (PPAs) work in this investment?": "The Prepaid PPA falls under IRS Code 7701E and 7701O and is not considered a lease for tax purposes. The prepaid period must be less than 80% of the system's life and offers a purchase option at fair market value. Income recognition rules changed under the 2017 Tax Cuts and Jobs Act, requiring income and depreciation recognition in the year the system is placed into service.",
+
+"Can you tell me about material participation, and why is it important for tax benefits?": "Material participation determines whether an investment is classified as active or passive for tax purposes. Meeting material participation requirements allows investors to:\n- Claim ITC and depreciation benefits more effectively.\n- Offset other active income with deductions from the solar asset.\n- Avoid passive activity limitations, which restrict tax benefits to passive income only.",
+
+"What’s the best way to accumulate hours for material participation?": "You can start accruing hours immediately. Activities that qualify include:\n- Reviewing legal contracts, financial models, and system performance reports.\n- Attending meetings with Inception Financial or professional service providers.\n- Managing financial responsibilities (banking, tax filings, accounting).\n- Conducting site visits.\n- Using Solar.Study, an e-learning platform that automatically tracks time spent on educational content.",
+
+"Is it possible to outsource activities and still count them toward my material participation?": "No. Material participation requires direct involvement. Activities performed by hired professionals cannot be counted toward your hours.",
+
+"What if I don’t meet the 100-hour material participation requirement in a given year?": "Your investment may be classified as passive, limiting the ability to offset non-passive income. Passive losses can only be used to offset passive income.",
+
+"Can married couples combine their hours for material participation?": "Yes. If one spouse materially participates, the other spouse is automatically considered to have materially participated as well.",
+
+"Is it possible to change the ownership structure of my solar investment later?": "Yes, but ownership modifications may have legal, tax, or financial implications. It is recommended to consult a tax or legal advisor before making changes.",
+
+"A History of Solar Tax Credits": "https://www.inception.financial/article-history-of-solar-tax-credits/",
+
+"Realizing the Benefits of Solar Tax Equity: Private Clients Are Following Banking’s Lead": "https://www.inception.financial/article-benefits-of-solar-tax-equity/",
+
+"Inception One-Pager": "https://drive.google.com/file/d/16LFGBJBoD4jGzcbcR4vbrXV8jJFQjGKX/view",
+
+"Solar Study": "https://drive.google.com/file/d/16LFGBJBoD4jGzcbcR4vbrXV8jJFQjGKX/view",
+
+"Schedule introduction meeting with Inception": "https://calendly.com/inception-financial/60min"
 }

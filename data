@@ -1,21 +1,107 @@
 {
-"Can you explain Inception Financial’s solar investment model work?": "Inception Financial offers a solar asset-based investment where investors purchase solar assets through a dedicated LLC, enabling direct ownership and control. The investment is structured to maximize tax benefits, including the Investment Tax Credit (ITC) and accelerated depreciation.",
+"Can you explain Inception Financial's solar investment model work?": "Inception Financial offers a solar asset-based investment where investors purchase solar assets through a dedicated LLC, enabling direct ownership and control. The investment is structured to maximize tax benefits, including the Investment Tax Credit (ITC) and accelerated depreciation.",
+  
+"What does it mean to own a solar asset through an LLC?": "Investors acquire solar assets via a Limited Liability Company (LLC), which provides pass-through tax benefits, management rights, and is recommended for sole ownership if not meeting the 500-hour material participation requirement.",
 
-"What does it mean to own a solar asset through an LLC?": "Investors acquire solar assets via a Limited Liability Company (LLC), which provides:\n- Pass-through tax benefits, allowing individual investors to claim tax incentives.\n- Management rights, which may help qualify the business as active for tax purposes.\n- Sole ownership recommendations for those not meeting the 500-hour material participation requirement across all business activities.",
+"How does Power Purchase Agreements (PPAs) work in this investment?": "The Prepaid PPA under IRS Code 7701E and 7701O is not considered a lease. The prepaid term must be under 80% of system life and includes a fair market value purchase option. Income and depreciation are recognized in the year the system is placed in service.",
 
-"How does Power Purchase Agreements (PPAs) work in this investment?": "The Prepaid PPA falls under IRS Code 7701E and 7701O and is not considered a lease for tax purposes. The prepaid period must be less than 80% of the system's life and offers a purchase option at fair market value. Income recognition rules changed under the 2017 Tax Cuts and Jobs Act, requiring income and depreciation recognition in the year the system is placed into service.",
+"Can you tell me about material participation, and why is it important for tax benefits?": "Material participation determines if an investment is active or passive. Meeting requirements allows claiming tax benefits more effectively, offsetting other active income, and avoiding passive activity limitations.",
 
-"Can you tell me about material participation, and why is it important for tax benefits?": "Material participation determines whether an investment is classified as active or passive for tax purposes. Meeting material participation requirements allows investors to:\n- Claim ITC and depreciation benefits more effectively.\n- Offset other active income with deductions from the solar asset.\n- Avoid passive activity limitations, which restrict tax benefits to passive income only.",
+"What's the best way to accumulate hours for material participation?": "Qualifying activities include reviewing legal contracts, financial models, system performance reports, attending meetings, managing finances, conducting site visits, and using Solar.Study. These hours can be tracked and started immediately.",
 
-"What’s the best way to accumulate hours for material participation?": "You can start accruing hours immediately. Activities that qualify include:\n- Reviewing legal contracts, financial models, and system performance reports.\n- Attending meetings with Inception Financial or professional service providers.\n- Managing financial responsibilities (banking, tax filings, accounting).\n- Conducting site visits.\n- Using Solar.Study, an e-learning platform that automatically tracks time spent on educational content.",
+"Is it possible to outsource activities and still count them toward my material participation?": "No. Only direct involvement counts toward material participation. Work performed by hired professionals does not qualify.",
 
-"Is it possible to outsource activities and still count them toward my material participation?": "No. Material participation requires direct involvement. Activities performed by hired professionals cannot be counted toward your hours.",
+"What if I don'st meet the 100-hour material participation requirement in a given year?": "The investment will be classified as passive, meaning deductions can only offset passive income, not active income.",
 
-"What if I don’t meet the 100-hour material participation requirement in a given year?": "Your investment may be classified as passive, limiting the ability to offset non-passive income. Passive losses can only be used to offset passive income.",
+"Can married couples combine their hours for material participation?": "Yes. If one spouse materially participates, both are considered to have materially participated.",
 
-"Can married couples combine their hours for material participation?": "Yes. If one spouse materially participates, the other spouse is automatically considered to have materially participated as well.",
+"Is it possible to change the ownership structure of my solar investment later?": "Yes, but changes may have legal, tax, or financial implications. Consult a tax or legal advisor.",
 
-"Is it possible to change the ownership structure of my solar investment later?": "Yes, but ownership modifications may have legal, tax, or financial implications. It is recommended to consult a tax or legal advisor before making changes.",
+"What if I purchase a project in December\u2014do I still need to meet the 100-hour rule?": "Yes. The 100-hour rule applies for the entire tax year, making it more difficult to meet with a late-year purchase.",
+
+"What tax benefits are available for solar investments?": "Key benefits include the Investment Tax Credit (ITC), Accelerated Depreciation (MACRS), and Bonus Depreciation (depending on tax year).",
+
+"Can you explain the Investment Tax Credit (ITC) work?": "The ITC allows you to deduct a portion of the system cost from your income tax liability.",
+
+"Is there a limit to how much tax liability the ITC can offset?": "Yes. The ITC is calculated as: Tax due \u2013 (25% of tax over $25,000). For example, if you owe $65,000, the max ITC is $55,000.",
+
+"Can the ITC be carried forward if I don'st have enough tax liability in the current year?": "Yes. The unused ITC can be carried forward to future tax years.",
+
+"Can the ITC offset capital gains taxes?": "Yes. The ITC can help reduce capital gains tax liability.",
+
+"Can you tell me about depreciation, and how does it work for solar investments?": "MACRS depreciation enables rapid tax deductions over a short period, enhancing the investment's tax efficiency.",
+
+"Can you explain bonus depreciation apply to my solar asset?": "Bonus depreciation allows for an additional upfront deduction in specific tax years, depending on IRS regulations.",
+
+"Can you tell me about depreciation recapture, and how does it affect my investment?": "If the solar asset is sold, some of the previously claimed depreciation may be subject to taxation.",
+
+"Can you explain the at-risk rules, and how do they impact my tax benefits?": "At-risk rules restrict tax benefits to the amount you've actually invested or are liable for.",
+
+"What if the IRS audits my investment\u2014how does Inception Financial assist?": "Inception Financial provides documentation and support to validate your material participation and tax benefit claims.",
+
+"Is there any clawback provisions that could affect my tax benefits?": "Yes. If the asset is sold or ceases operation within five years, a portion of the tax credits may be recaptured.",
+
+"Can you explain California treat solar investments for tax purposes?": "Income from solar projects, even out-of-state, is taxable in California. Credits may apply for taxes paid to other states.",
+
+"How does passive activity loss limitations apply to solar investments?": "Passive losses can only offset passive income unless the investment qualifies as active through material participation.",
+
+"Can you tell me about the best entity structure for investing in solar?": "Common structures include Single Member LLCs, Partnerships, and S Corporations, each with different tax and management implications.",
+
+"Can you explain the advantages of using a Single Member LLC for this investment?": "Single Member LLCs offer pass-through tax treatment and limited liability protection for investors.",
+
+"Is it possible to use an S-Corp or Partnership for this investment, and what are the tax implications?": "Yes. S-Corps have additional compliance requirements. Partnerships allow shared ownership and pass-through taxation.",
+
+"What if I dissolve my LLC before the solar system's contract ends?": "Dissolution can lead to tax consequences and ITC recapture. Ownership must be transferred appropriately.",
+
+"Can you explain entity structure impact material participation requirements?": "Material participation is measured at the individual level for pass-through entities, requiring active involvement.",
+
+"Do I need a separate LLC for this investment, or can I use an existing entity?": "A separate LLC is recommended for liability protection and to ensure clear tax benefit treatment.",
+
+"What ongoing costs should I expect as a solar investor?": "Costs include TSA fees, insurance, and potential maintenance expenses.",
+
+"Can you tell me about the Technical Services Agreement (TSA), and what does it cover?": "The TSA covers system maintenance, monitoring, and performance optimization.",
+
+"How is the TSA fee calculated, and how often is it paid?": "The TSA fee is $2.75 per kilowatt of DC capacity, charged quarterly.",
+
+"How long does the Technical Services Agreement last?": "The TSA has an initial 6-year term, extendable up to 10 years, with renewal options afterward.",
+
+"Is it possible to sell my solar asset after a few years?": "Yes, but a sale within 5 years may trigger ITC recapture.",
+
+"Who decides the Fair Market Value (FMV) of the solar asset?": "FMV is determined by independent valuation, based on system performance and market conditions.",
+
+"What if no buyer is found for the solar asset at Year 6?": "You may continue to earn revenue through Annual Admin Fees from Years 7\u201320.",
+
+"Is there ongoing revenue opportunities after Year 6 if the homeowner doesn'st buy the asset?": "Yes, through admin fees and future resale opportunities.",
+
+"What happens at the end of the solar system's lifespan?": "The system may be renewed, sold, or removed. It continues to operate at ~85% efficiency after 20 years.",
+
+"Can you explain the costs associated with system removal?": "Removal costs depend on location and system size, covering labor and roof sealing.",
+
+"Can the solar equipment be resold on the aftermarket?": "Yes, equipment may retain resale value based on market demand and condition.",
+
+"Does the system come with a performance guarantee?": "Yes. Performance shortfalls are compensated at years 6 and 25.",
+
+"What if the system underperforms?": "Underperformance is covered by a guarantee with compensation based on actual performance.",
+
+"Can you explain California treat income from solar investments compared to other states?": "California taxes income from out-of-state solar assets but provides credits for taxes paid elsewhere.",
+
+"Can you explain state tax treatment vary for solar investments?": "Yes. Some states follow federal rules while others have unique depreciation or credit policies.",
+
+"What should I consider if I invest in multiple states?": "You may need to allocate income across multiple tax returns and monitor different state incentives.",
+
+"Can you explain this investment compare to traditional asset classes in terms of risk and return?": "Solar offers tax benefits, stable income, and ESG value but comes with policy and performance risks.",
+
+"What level of due diligence has Inception Financial done on these solar projects?": "Inception conducts financial, technical, and legal due diligence to ensure viability.",
+
+"When after I invest can I expect to see tax savings?": "Tax savings apply in the year the system is placed in service.",
+
+"Do I have to manage the solar panels, or is this a hands-off investment?": "It's a hands-off investment. TSA manages all operations and maintenance.",
+
+"Can you explain the biggest risks associated with this investment?": "Risks include regulatory changes, ITC recapture, underperformance, and varying state tax treatment.",
+
+"What if solar tax incentives change in the future?": "Incentives may change due to legislation. Consult with tax professionals regularly.",
+
+"What's the best way to learn more about the solar investment process?": "Use Solar.Study for learning and schedule consultations with Inception Financial experts."
 
 "A History of Solar Tax Credits": "https://www.inception.financial/article-history-of-solar-tax-credits/",
 
